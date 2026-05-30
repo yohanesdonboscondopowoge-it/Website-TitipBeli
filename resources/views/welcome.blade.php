@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
-    <head>
     <meta name="google-site-verification" content="WooJWKZ4R1IJJ_cr5GXi2EwUu2bnSEz46CJH85yJ2hc" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
